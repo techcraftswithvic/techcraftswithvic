@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @techcraftswithvic
+- 👀 I create Web Development Courses, and other tech related courses as need be
+- 🌱 I’m currently making web development courses with their backup projects
+- 💞️ I’m looking to collaborate on web development-related issues/engagements
+- 📫 How to reach me: techcraftswithvic@gmail.com
+- ⚡ Fun fact: Tech remains the future. The World Wide Web (WWW) will remain always.
+- 📩 Never hesitate to reach out (techcraftswithvic@gmail.com)
